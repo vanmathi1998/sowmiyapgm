@@ -4,7 +4,7 @@ int main()
 char str[20],len,n;
 scnf('%s',&str);
 len=strlen(str);
-n=len/2'
+n=len/2
 if(len%2)
 {
 str[n]='*';
