@@ -3,8 +3,8 @@ str=''
 for i in s:
 str=i+str
 return str
-s=6
-print('the original string is:',end='')
+s=8
+print('original string is:',end='')
 print(s)
-print('the reverse string id',end='')
-print('reverse(s))
+print('reverse string is',end='')
+print(reverse(s))
